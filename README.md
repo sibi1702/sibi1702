@@ -14,16 +14,6 @@ I'm an MS in Computer Science student at Illinois Institute of Technology with p
 - 🏆 Proud inventor with 2 patents filed with Intellectual Property India
 - 📍 Based in Chicago, IL
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sibi1702&show_icons=true&theme=tokyonight" alt="Sibi's GitHub stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sibi1702&theme=tokyonight" alt="Sibi's GitHub streak" />
-</div>
-
 ## 🚀 Featured Projects
 
 ### Marine Ship Oil Management System
