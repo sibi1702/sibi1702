@@ -8,13 +8,13 @@
 
 I'm an MS in Computer Science student at Illinois Institute of Technology with professional experience as a Software Engineer. I'm passionate about developing innovative solutions and solving complex problems.
 
-- 🔭 I'm currently working on enhancing my skills in React, Next.js, and cloud technologies
-- 🌱 I'm learning advanced concepts in Computer Vision and AI
-- 💼 Previously worked at SkyIT Services, Ardhas Technology, Biztech Softsys, and Vetronics Future Tech
-- 🏆 Proud inventor with 2 patents filed with Intellectual Property India
-- 📍 Based in Chicago, IL
+- I'm currently working on enhancing my skills in React, Next.js, and cloud technologies
+- I'm learning advanced concepts in Computer Vision and AI
+- Previously worked at SkyIT Services, Ardhas Technology, Biztech Softsys, and Vetronics Future Tech
+- Proud inventor with 2 patents filed with Intellectual Property India
+- Based in Chicago, IL
 
-## 📫 Connect With Me
+## Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sibichandrasekar" target="_blank">
